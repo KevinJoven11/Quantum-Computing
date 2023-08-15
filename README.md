@@ -18,7 +18,7 @@ This repository is about some codes in quantum computing, the most known.
     <td class="tg-yw4l">
   <img src="https://img.shields.io/badge/COMPLETE-30%25-orange" >
 </a></td>
-<td class="tg-yw4l">  <a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Galaxy%20Detection%20using%20Quantum%20Machine%20Learning"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Quantum_Tomography.ipynb"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </a></td>
     
   </tr>
@@ -30,7 +30,7 @@ This repository is about some codes in quantum computing, the most known.
     <td class="tg-yw4l">
   <img src="https://img.shields.io/badge/COMPLETE-100%25-blue" >
 </a></td>
-<td class="tg-yw4l">  <a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Galaxy%20Detection%20using%20Quantum%20Machine%20Learning"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </a></td>
     
   </tr>
@@ -42,7 +42,7 @@ This repository is about some codes in quantum computing, the most known.
     <td class="tg-yw4l">
   <img src="https://img.shields.io/badge/COMPLETE-100%25-blue" >
 </a></td>
-<td class="tg-yw4l">  <a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Galaxy%20Detection%20using%20Quantum%20Machine%20Learning"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Parameter_Shift_Rule.ipynb"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </a></td>
     
   </tr>
