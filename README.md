@@ -18,7 +18,7 @@ This repository is about some codes in quantum computing, the most known.
     <td class="tg-yw4l">
   <img src="https://img.shields.io/badge/COMPLETE-30%25-orange" >
 </a></td>
-<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Quantum_Tomography.ipynb"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Quantum_Tomography.ipynb"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </a></td>
     
   </tr>
@@ -30,7 +30,7 @@ This repository is about some codes in quantum computing, the most known.
     <td class="tg-yw4l">
   <img src="https://img.shields.io/badge/COMPLETE-100%25-blue" >
 </a></td>
-<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </a></td>
     
   </tr>
@@ -38,11 +38,11 @@ This repository is about some codes in quantum computing, the most known.
   <tr>
     <td class="tg-yw4l">3.</td>
     <td class="tg-yw4l">Parameter Shift Rule - Qiskit Implementation & Pennylane validation</td>
-    <td class="tg-yw4l">You can find the step by step of calculation of the parameters shift rule with an example of calculating the lowest value of a matrix. Also, validate the result using Pennylane, a library focused on quantum machine learning.</td>
+    <td class="tg-yw4l">You can find the step by step of calculation of the parameters shift rule with an example of calculating the lowest value of a matrix. Also, validated the resultd using Pennylane, a library focused on quantum machine learning.</td>
     <td class="tg-yw4l">
   <img src="https://img.shields.io/badge/COMPLETE-100%25-blue" >
 </a></td>
-<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Parameter_Shift_Rule.ipynb"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<td class="tg-yw4l">  <a href="https://github.com/KevinJoven11/Quantum-Computing/blob/main/Parameter_Shift_Rule.ipynb"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </a></td>
     
   </tr>
