@@ -10,9 +10,13 @@ The LCU circuit can be designed as the following image.
 
 The different building blocks, prepare (Prep.) and select (Selec) are developed in different files. Each implements the following design strategy, as shown in the following two figures.
 
-[2]
+<div align="center">
+    <img src="images/Prep.png" width="600">
+</div>
 
-[3]
+<div align="center">
+    <img src="images/Select.png" width="600">
+</div>
 
 Combining them, we can implement the LCU circuit, which, in our case, will be the building block of a more complex quantum circuit (Hint: QSVT).
 
