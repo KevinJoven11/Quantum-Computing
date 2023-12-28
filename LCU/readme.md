@@ -4,7 +4,9 @@
 
 The LCU circuit can be designed as the following image.
 
-[image1]
+<div align="center">
+    <img src="images/LCU.png" width="600">
+</div>
 
 The different building blocks, prepare (Prep.) and select (Selec) are developed in different files. Each implements the following design strategy, as shown in the following two figures.
 
