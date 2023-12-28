@@ -20,4 +20,4 @@ The different building blocks, prepare (Prep.) and select (Selec) are developed 
 
 Combining them, we can implement the LCU circuit, which, in our case, will be the building block of a more complex quantum circuit (Hint: QSVT).
 
-Feel free to leave any questions!
+## Feel free to leave any questions!
