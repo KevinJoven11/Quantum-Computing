@@ -6,4 +6,4 @@ $$ |\psi(t)\rangle = e^{-i H t} |\psi(0)\rangle $$
 
 $$ |\psi(t)\rangle \approx \left( \prod_r e^{-i \alpha_r H_r t/n}  \right)^n |\psi(0)\rangle $$
 
-## Enjoy!
+## Just go to Ham_Sim and Enjoy!
