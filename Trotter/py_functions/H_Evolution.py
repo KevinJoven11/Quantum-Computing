@@ -82,9 +82,9 @@ class H_Evolution:
 
                     for j in list_opt[i]:
                         if j == 'X':
-                            qc.ry(np.pi/2, pos)
+                            qc.ry(-np.pi/2, pos)
                         elif j == 'Y':
-                            qc.rx(np.pi/2, pos)
+                            qc.rx(-np.pi/2, pos)
                         pos = pos + 1 
 
                     pos = 0
