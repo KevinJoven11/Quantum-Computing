@@ -4,4 +4,6 @@ This code implementes the quantum phase estimation algorithm for the hydrogen tw
 
 In short you can see the following plot that shown how the eigenvalues are calculated based on the number of precision qubits (ancilla qubits that increase the precision of the algorithm)!
 
-
+<div align="center">
+    <img src="H2_eigenvalues_QPE.png" width="600">
+</div>
